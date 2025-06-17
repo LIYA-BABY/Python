@@ -1,0 +1,10 @@
+set1={6,3,2,5,1,9}
+set2={7,2,9,8,4,10}
+print(set1)
+print(set2)
+uni=set1.union(set2)
+print(uni)
+int=set1.intersection(set2)
+print(int)
+adifb=set1.difference(set2)
+print(adifb)
